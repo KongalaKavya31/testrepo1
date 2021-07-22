@@ -1,6 +1,4 @@
 this is text file
 
 hiii
-hii to pull request
-hello
 
